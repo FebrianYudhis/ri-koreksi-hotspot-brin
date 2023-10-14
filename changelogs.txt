@@ -108,3 +108,6 @@ Setelah Rilis Versi BRIN
 - Initial Release
 - Memperbaiki Order DataTables Pada File "data.html"
 - Memperbaiki README
+
+#1.0.1
+- Memperbaiki Gitignore
