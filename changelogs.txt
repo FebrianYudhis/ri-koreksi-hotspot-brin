@@ -117,3 +117,6 @@ Setelah Rilis Versi BRIN
 
 #1.0.3
 - Memperbaiki file "README.md"
+
+#1.1.0
+- Memperbaiki Bug Jika Data Kosong
