@@ -14,7 +14,6 @@ Jika anda memiliki akses dan ingin melakukan modifikasi silahkan sesuaikan denga
 ## Instalasi
 
 - Jalankan di terminal "git clone https://github.com/FebrianYudhis/ri-koreksi-hotspot-brin.git"
-- Jalankan di terminal "composer update" untuk menginstal dependency yang dibutuhkan
 
 Note: Setelah instal, silahkan membuat directory / folder "uploads" pada root directory aplikasi ini.
 

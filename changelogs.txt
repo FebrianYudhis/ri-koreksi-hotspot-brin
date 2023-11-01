@@ -114,3 +114,6 @@ Setelah Rilis Versi BRIN
 
 #1.0.2
 - Memperbaiki Order DataTables Pada File "data.html"
+
+#1.0.3
+- Memperbaiki file "README.md"
